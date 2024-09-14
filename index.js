@@ -10,7 +10,6 @@ buttonEl.textContent = textEl.textContent;
 
 const title = document.querySelector(".title");
 const imageEl = document.querySelector(".img");
-const checkboxEl = document.querySelector(".checkbox");
 
 imageEl.src = "./img/batman.png";
 
